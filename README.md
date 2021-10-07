@@ -2,13 +2,13 @@
 
 ### Сайт с тремя разными поп итами 
 
-### Portfolio-3 {
+## Portfolio-3 {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-26/Pop-It's/index.html
 
 ### }
 
-### Codepen {
+## Codepen {
 
 ### https://codepen.io/vladimirsaenko/pen/OJpGEBY
 
