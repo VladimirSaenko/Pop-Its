@@ -2,7 +2,7 @@
 
 ### Сайт с тремя разными поп итами 
 
-## Portfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-26/Pop-It's/index.html
 
