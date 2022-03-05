@@ -1,6 +1,6 @@
 # Pop-It's-site
 
-## Сайт с тремя разными поп итами 
+## Сайт с тремя поп итами 
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-25/Pop-It's/index.html
 
