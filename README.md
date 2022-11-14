@@ -2,7 +2,7 @@
 
 ## Сайт с поп итами 
 
-## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-25/Pop-It's/index.html
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-21/Pop-It's/index.html
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/OJpGEBY
 
