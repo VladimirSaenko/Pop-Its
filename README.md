@@ -1,7 +1,5 @@
 # Pop-It's
 
-## Сайт с поп итами 
-
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-21/Pop-It's/index.html
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/OJpGEBY
